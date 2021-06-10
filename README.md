@@ -1,8 +1,8 @@
-# Just a repo to keep these tutorials available to me remotely.
+# A repo to keep these tutorials available to me remotely.
 
-Scrimba is a great online learning platform where I picked up on a ton of information and guidance to fully understaind Flexbox and CSS Grid.
+Scrimba is a great online learning platform where I picked up on a ton of information and guidance to fully understand Flexbox and CSS Grid.
 
-I've inlcuded their README.md below to acredit them with this repo.
+I've included their README.md below to accredit them with this repo.
 
 ------------------------------------------------------------------------------
 
