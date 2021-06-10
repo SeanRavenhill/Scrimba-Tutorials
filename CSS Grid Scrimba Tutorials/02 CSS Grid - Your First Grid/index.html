@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>02 CSS Grid - Your First Grid</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+    <link rel="stylesheet" href="basic.css">
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: 100px auto;
+            grid-template-rows: 50px 50px 200px;
+            grid-gap: 3px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div>1</div>
+        <div>2</div>
+        <div>3</div>
+        <div>4</div>
+        <div>5</div>
+        <div>6</div>
+    </div>
+</body>
+
+</html>
